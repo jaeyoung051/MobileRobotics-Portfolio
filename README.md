@@ -1,6 +1,6 @@
 # MobileRobotics-Portfolio
 
-![competition](docs/images/competition_main.png)
+![competition](competition_main.png)
 
 ## 프로젝트 개요
 
