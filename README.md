@@ -112,6 +112,8 @@ IR 센서와 카메라를 통해 실시간으로 맵 상태를 갱신하며 SMT 
 
 이를 통해 랜덤한 경기장 환경에서도 정렬 미션을 수행할 수 있도록 구현하였습니다.
 
+![competition](KakaoTalk_Photo_2026-03-13-21-02-57 004.jpeg.png)
+
 ---
 
 ### Competition Rules
